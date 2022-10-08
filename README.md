@@ -33,11 +33,28 @@ D2.employee salary details
 D2.friend functionwise department list
 D2.generate electricity bill
 D2.mark of student
-D2.reverse order of number
-D2.simple intrest
-D2.sum of fibinocci series
 D3.swapping
-D3.voting
+D3.RBI.cpp
+D3.area of rectangle and square
+D3.area of rectangle
+D3.banking
+D3.graduation
+D3.i love cpp
+D3.name,age,address of 10 students
 D3.piggie bank
+D3.print an integer and character
 D3.print number
-D3.student class
+D3.printing number
+D3.students class
+D4. no.of fruits in basket
+D4.area of circle
+D4.average marks of class
+D4.hybrid inheritence
+D4.marks of students multilevel inheritence
+D4.sum and product using single inheritence
+D4.sum of integers in array
+D4.updating accounts
+
+
+
+
